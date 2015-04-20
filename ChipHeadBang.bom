@@ -1,0 +1,19 @@
+Partlist exported from /Volumes/Nardis/Shared/Development/Eagle2/ChipHeadBang/ChipHeadBang.sch at 20/04/15 02:29
+
+Part Value                Device                    Package         Description               MF MPN OC_FARNELL OC_NEWARK PROD_ID   VALUE
+C1   22p                  CAP0603-CAP               0603-CAP        Capacitor                                                            
+C2   22p                  CAP0603-CAP               0603-CAP        Capacitor                                                            
+C3   1n                   CAP0603-CAP               0603-CAP        Capacitor                                                            
+C4   10µ                  CAP0805                   0805            Capacitor                                                            
+C5   .47µ                 CAP0805                   0805            Capacitor                                                            
+D1   GREEN                LED-GREENLARGE            LED-1206        Various green LEDs                                    DIO-00862 GREEN
+D2   GREEN                LED-GREENLARGE            LED-1206        Various green LEDs                                    DIO-00862 GREEN
+F1   500mA		  SPARKFUN_PTCPTH           SPARKFUN_PTC    Resettable Fuse PTC                                                  
+J1   AVR_SPI_PRG_6PTH     AVR_SPI_PRG_6PTH          2X3             AVR ISP 6 Pin                                                        
+JP1                       ARDUINO_SERIAL_PROGRAMPTH 1X06            FTDI connector footprints                                            
+R1   10Ω                  RESISTOR0603-RES          0603-RES        Resistor                                                             
+R2   1kΩ                  RESISTOR0603-RES          0603-RES        Resistor                                                             
+R3   1kΩ                  RESISTOR0603-RES          0603-RES        Resistor                                                             
+U$1  CH340G               CH340G                    SOIC16                                                                               
+X1   MINI-USB-UX60-MB-5S8 MINI-USB-UX60-MB-5S8      UX60-MB-5S8     MINI USB Connector               unknown    unknown                  
+Y1   12MHz                SPARKFUN_CRYSTALHC49US    SPARKFUN_HC49US Crystals                                                             
