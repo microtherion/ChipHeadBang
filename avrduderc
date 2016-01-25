@@ -1,8 +1,12 @@
+#
+# This needs to be run with -i 300, which unfortunately cannot be specified in the programmer entry
+#
 programmer
   id    = "chipheadbang";
   desc  = "CH340 based bitbang, reset=!txd sck=rts mosi=dtr miso=cts";
   type  = "serbb";
   connection_type = serial;
+  baudrate = 115200;
   reset = ~3;
   sck   = ~7;
   mosi  = ~4;
