@@ -1,0 +1,11 @@
+programmer
+  id    = "chipheadbang";
+  desc  = "CH340 based bitbang, reset=!txd sck=rts mosi=dtr miso=cts";
+  type  = "serbb";
+  connection_type = serial;
+  reset = ~3;
+  sck   = ~7;
+  mosi  = ~4;
+  miso  = ~8;
+;
+
